@@ -1,2 +1,6 @@
+n="Hello World"
+
 def hello_world():
-    return "Hello!"
+    print(n)
+
+hello_world()
